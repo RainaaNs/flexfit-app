@@ -3,6 +3,13 @@ This contains the responsive frontend implementation of a UI Design on Dribble.
 
 ### Link to the website: [https://flexfit-app.web.app/](https://flexfit-app.web.app/)
 
+### What the website looks like:
+#### Desktop View
+![Full screen view](./src/assets/desktopView.jpeg)
+
+#### Responsive View
+![Responsive view](./src/assets/responsive.jpeg)
+
 
 
 
